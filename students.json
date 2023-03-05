@@ -1,0 +1,38 @@
+[
+  {
+    "id": "66ecca01-4404-4eb3-9d1a-5410b35e7040",
+    "nom ": "john doe",
+    "classe": "GLSI",
+    "modules": [
+      {
+        "module": "Spring",
+        "note": 14
+      },
+      {
+        "module": "Angular",
+        "note": 18
+      },
+      {
+        "module": "Agile",
+        "note": 10
+      }
+    ],
+    "moyenne": 14
+  },
+  {
+    "id": "eac85ad9-e21b-4b6c-a2c8-b486bde6f775",
+    "nom ": "jane doe",
+    "classe": "GLSI",
+    "modules": [
+      {
+        "module": "Agile",
+        "note": 12
+      },
+      {
+        "module": ".Net",
+        "note": 10
+      }
+    ],
+    "moyenne": 11
+  }
+]
